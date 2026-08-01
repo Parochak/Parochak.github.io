@@ -27,85 +27,42 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at the <span class="theme-text">University of Technology Sydney (UTS)</span>. I did my undergrad in <span class="theme-text">Civil Engineering</span> at <span class="theme-text">Khulna University of Engineering & Technology (KUET)</span>, graduating with distinction and receiving the University Technical Scholarship and Dean's Award along the way.
 
-Hi, I’m <span class="theme-text">Paromita Chakma</span>, a graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>.
+Since starting my master's, I've achieved High Distinction in my first year, including in Design for Durability, which focuses on the long-term performance of concrete structures. My interests lie mainly in risk assessment and sustainable design, and my coursework has taken me across structural analysis, sustainable energy systems, and environmental engineering — giving me a broad, practical view of civil engineering problems.
 
-I’m currently working as a <span class="theme-text">Trainee Engineer – Network Fault Resolution (IP)</span> at Fiber@Home Ltd. in the Service Operations Center (SoC). I work with nationwide backbone and access networks, including L2/L3, MPLS, and FTTX systems. My role involves monitoring network performance, supporting configuration and upgrades of routers and switches, and troubleshooting connectivity issues to ensure high availability and service stability.
-
-This professional experience gives me practical insight into real-world network behavior, traffic patterns, latency challenges, and reliability issues which strongly support my research interests.
-
-I have solid knowledge of routing, switching, VLANs, subnetting, firewalls, and MPLS. I also use Python for machine learning, data analysis, and research prototyping.
+I enjoy working on real projects and helping deliver useful results for the people I work with.
 
 
-## **Research Interests**
+## **Technical Skills**
 
-My primary research interest lies at the intersection of <span class="theme-text">Computer Networking</span> and <span class="theme-text">Artificial Intelligence.</span>
+**Design Software:** AutoCAD, ETABS, SewerGEMS, GeNIe, QGIS, CIRCLY 7.0
 
-I am currently working with my professor <span class="theme-text"><a href="https://shaonkuetece05.wixsite.com/mysite">Dr. Mirza Mohd Shahriar Maswood</a></span> on research that explores AI-driven optimization in cloud, edge, and fog computing environments. My focus is on designing hierarchical, distributed systems that combine workload forecasting, resource orchestration, and intelligent decision-making.
-
-I am particularly interested in:
-
-- Multi-timescale workload forecasting.
-
-- Edge–Fog–Cloud cooperative architectures.
-
-- Uncertainty-aware resource provisioning.
-
-- AI-driven network optimization under dynamic and bursty traffic.
-
-My long-term goal is to contribute to impactful research that improves QoS, reduces cost and latency, and makes large-scale distributed networks more adaptive and intelligent.
+**Other Software:** MS Word, Excel, and PowerPoint
 
 
-## **Skills**  
+## **Leadership & Professional Development**
 
-I have solid experience in machine learning and data science, and I am also comfortable working with web technologies and networking systems. The following are the main tools and technologies I use:
+Beyond my technical work, I've taken on several leadership and community-focused roles throughout my studies:
 
-### Languages
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c" alt="C" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" alt="Python" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-</p>
+- **Peer Network, UTS** — Coordinated orientation activities and engaged with diverse student groups, and led hospitality initiatives for international students, developing strong interpersonal and cross-cultural communication skills.
+- **Postgraduate Collective, UTS** — Assisted in organising a postgraduate social event, handling logistics and purchases to ensure smooth operations.
+- **Concrete Society of KUET, Bangladesh** — Mentored new members, facilitated training sessions, organised student events, and managed finances, developing hands-on leadership and teamwork abilities.
+
+
+## **Transferable Skills**
+
+- **Teamwork:** Achieved a high distinction team project designing a full agrivoltaics energy system with quantified cost and emissions outcomes, recognised by peers and academics for collaborative contribution.
+- **Problem-solving:** Delivered creative, data-driven solutions across structural, energy, and risk projects using AutoCAD, ETABS, and GeNIe.
+- **Adaptability & Communication:** Navigated cultural transition as an international student while supporting incoming students as a UTS Peer Networker, developing strong communication skills.
+- **Languages:** Fluent in Bengali and Hindi.
 
 ---
 
-### Data Analysis & ML
-<p align="left">
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.simpleicons.org/keras" alt="Keras" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-</p>
-
----
-
-### Technologies & Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.simpleicons.org/arduino" alt="Arduino" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://cdn.simpleicons.org/dotnet" alt="ASP.NET" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash" alt="Bash" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux" alt="Linux" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 0 10px 10px 0;"/></a>
-
-</p>
-
----
-
+<!--
 <div style="height: 15px;"></div>
 
-##  **Awards & Certificates**
+## **Awards & Certificates**
 
 Some of my achievements - (under progress)
 
@@ -201,7 +158,6 @@ Some of my achievements - (under progress)
   font-weight: 500;
 }
 
-/* Lightbox styles */
 .lightbox {
   display: none;
   position: fixed;
@@ -243,68 +199,8 @@ Some of my achievements - (under progress)
 </style>
 
 <div class="certificate-grid">
-<div class="certificate-card" onclick="openLightbox('/assets/img/CertificateOfCompletion_SQL Essential Training_page-0001.jpg')">
-    <img src="/assets/img/CertificateOfCompletion_SQL Essential Training_page-0001.jpg" alt="SQL Essential Training">
-    <div class="certificate-overlay">
-      <div class="certificate-title">SQL Essential Training</div>
-      <!-- <div class="certificate-issuer">LinkedIn Learning</div> -->
-    </div>
-  </div>
-
-
-  <div class="certificate-card" onclick="openLightbox('/assets/img/bd_police.jpg')">
-    <img src="/assets/img/bd_police.jpg" alt="Bd Police Award 2019">
-    <div class="certificate-overlay">
-      <div class="certificate-title">BD Police Academic Excellence Award</div>
-      <!-- <div class="certificate-issuer">DataCamp</div> -->
-    </div>
-  </div>
-
-  <!-- <div class="certificate-card" onclick="openLightbox('')">
-    <img src="" alt="Supervised Machine Learning">
-    <div class="certificate-overlay">
-      <div class="certificate-title">Supervised Machine Learning</div>
-      <div class="certificate-issuer">Stanford Online - Coursera</div>
-    </div>
-  </div> -->
-
-
-  <!-- <div class="certificate-card" onclick="openLightbox('')">
-    <img src="" alt="Machine Learning Fundamentals">
-    <div class="certificate-overlay">
-      <div class="certificate-title">Machine Learning Fundamentals with Python</div>
-      <div class="certificate-issuer">DataCamp</div>
-    </div>
-  </div> -->
-
-
-
-  <!-- <div class="certificate-card" onclick="openLightbox('/assets/img/5.jpg')">
-    <img src="/assets/img/5.jpg" alt="Mathematical Thinking">
-    <div class="certificate-overlay">
-      <div class="certificate-title">Mathematical Thinking in Computer Science</div>
-      <div class="certificate-issuer">UC San Diego - Coursera</div>
-    </div>
-  </div> -->
-
-  <!-- <div class="certificate-card" onclick="openLightbox('/assets/img/6.jpg')">
-    <img src="/assets/img/6.jpg" alt="Discrete Mathematics">
-    <div class="certificate-overlay">
-      <div class="certificate-title">Introduction to Discrete Mathematics for Computer Science</div>
-      <div class="certificate-issuer">UC San Diego - Coursera</div>
-    </div>
-  </div>
-
-  <div class="certificate-card" onclick="openLightbox('/assets/img/7.jpg')">
-    <img src="/assets/img/7.jpg" alt="IP Addressing and Subnetting">
-    <div class="certificate-overlay">
-      <div class="certificate-title">IP Addressing and Subnetting - Zero to Hero</div>
-      <div class="certificate-issuer">Udemy</div>
-    </div>
-  </div> -->
 </div>
 
-<!-- Lightbox -->
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
   <span class="lightbox-close">&times;</span>
   <img class="lightbox-content" id="lightbox-img">
@@ -323,11 +219,10 @@ function closeLightbox() {
   lightbox.classList.remove('active');
 }
 
-// Close lightbox with Escape key
 document.addEventListener('keydown', function(event) {
   if (event.key === 'Escape') {
     closeLightbox();
   }
 });
 </script>
-
+-->
