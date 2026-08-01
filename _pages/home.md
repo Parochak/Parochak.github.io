@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: new_pic.JPG
+  image: paromita.jpeg
   image_circular: false # crops the image to make it circular
 # more_info: >
 #   <p>555 your office number</p>
@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-Hi, I’m <span class="theme-text">Bishaw Kirti Chakma</span>, a graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>.
+Hi, I’m <span class="theme-text">Paromita Chakma</span>, a graduate in <span class="theme-text">Electronics and Communication Engineering</span> from <span class="theme-text">Khulna University of Engineering and Technology (KUET)</span>.
 
 I’m currently working as a <span class="theme-text">Trainee Engineer – Network Fault Resolution (IP)</span> at Fiber@Home Ltd. in the Service Operations Center (SoC). I work with nationwide backbone and access networks, including L2/L3, MPLS, and FTTX systems. My role involves monitoring network performance, supporting configuration and upgrades of routers and switches, and troubleshooting connectivity issues to ensure high availability and service stability.
 

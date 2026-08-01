@@ -18,10 +18,10 @@ nav_order: 7
       <div>
         <h5 style="color: var(--global-theme-color);">Social Profiles</h5>
         <div class="social-icons">
-          <a href="https://github.com/bishawchak" target="_blank"><i class="fab fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/bishawkirti" target="_blank"><i class="fab fa-linkedin"></i></a>
-          <a href="https://www.facebook.com/bishaw1245" target="_blank"><i class="fab fa-facebook"></i></a>
-          <a href="https://www.instagram.com/__bishaw" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a href="https://github.com/Parochak" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/paromitachakma" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://www.facebook.com/nidita.chakma" target="_blank"><i class="fab fa-facebook"></i></a>
+          <a href="https://www.instagram.com/sarang_wook" target="_blank"><i class="fab fa-instagram"></i></a>
         </div>
       </div>
     </div>
@@ -31,7 +31,7 @@ nav_order: 7
       <i class="fa-solid fa-envelope"></i>
       <div>
         <h5 style="color: var(--global-theme-color);">Email</h5>
-        <a href="mailto:kuet.bishaw@gmail.com">kuet.bishaw@gmail.com</a>
+        <a href="mailto:paromita.chakma@student.uts.edu.au">paromita.chakma@student.uts.edu.au</a>
       </div>
     </div>
 

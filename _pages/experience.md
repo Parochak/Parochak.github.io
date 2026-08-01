@@ -25,33 +25,29 @@ nav_order: 2
 
 <div class="experience">
 
-  <!-- Example 1: Tech Solutions Ltd. -->
+  <!-- Example 1: Internship -->
   <div class="card mt-3 p-3">
     <div class="row">
       <div class="col-sm-2 text-center">
-        <img src="/assets/img/fiber@home_logo.png" alt="Tech Solutions Logo" class="img-fluid rounded" style="max-width: 100px;">
+        <img src="/assets/img/optik_consultancy_logo.png" alt="Optik Logo" class="img-fluid rounded" style="max-width: 100px;">
       </div>
 
       <div class="col-sm-10 mt-2 mt-md-0">
         <h5 class="title font-weight-bold ml-1 ml-md-4">
           <i class="fa-solid fa-briefcase" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
-          <a href="https://www.fiberathome.net/" target="_blank">Fiber@Home Ltd.</a>
+          <a href="https://www.uts.edu.au/about/faculties/engineering-and-information-technology/partner-us/access-industry-ready-talent/optik-consultancy" target="_blank">Optik Consultancy</a>
         </h5>
 
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
-          <a href="https://www.linkedin.com/in/bishawkirti/" target="_blank">Trainee Engineer - Network Fault Resolution (IP)</a>
-        </h6>
-
-        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
-          Full-time | Service Operations Center (SoC)
+          Engineer Intern | Full-time 
         </h6>
 
         <div class="ml-1 ml-md-4 d-flex justify-content-between align-items-center"
              style="font-size: 0.95rem; margin-top: 0.5rem;">
-          <span class="badge badge-secondary">Jan 2026 - Present</span>
+          <span class="badge badge-secondary">May 2026 - Present</span>
           <span class="text-muted">
             <i class="fa-solid fa-location-dot" style="color: var(--global-theme-color);"></i>
-            Gulshan-1, Dhaka, BD
+            Sydney, New South wales, Australia 
           </span>
         </div>
 
@@ -59,54 +55,90 @@ nav_order: 2
           <strong>Key Responsibilities:</strong>
           <ul class="items mt-2" 
               style="display: grid; grid-template-columns: repeat(1, 1fr); row-gap: 0.5rem; padding-left: 1.2rem;">
-            <li>Assist in the operation and maintenance of nationwide backbone and access networks, including L2/L3, MPLS, and FTTX systems.</li>
-            <li>Monitor network devices and links using NMS tools to identify faults, analyse performance trends, and ensure stable service delivery.</li>
-            <li>Support configuration, upgrade, and patch management of routers, switches, and GPON equipment under supervision.</li>
-            <li>Learn to troubleshoot connectivity issues across L2/L3, GPON, and MPLS environments, ensuring optimal uptime and performance.</li>
-            <li>Collaborate with cross-functional teams to support service provisioning and customer network requirements.</li>
+            <li>Working with Tweed Shire Council on a project to protect water and wastewater assets from sea level rise over the next 100+ years.</li>
+            <li>Creating forecast-based maps to show future flooding and tidal impact areas.</li>
+            <li>Assessing risk to assets based on how critical they are.</li>
+            <li>Proposing adaptation options to manage tidal flooding risks.</li>
           </ul>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Example 2: Internship -->
-  <!-- <div class="card mt-4 p-3">
+
+  <!-- Example 2: Notetaker -->
+  <div class="card mt-3 p-3">
     <div class="row">
       <div class="col-sm-2 text-center">
-        <img src="/assets/img/intern_logo.png" alt="Internship Logo" class="img-fluid rounded" style="max-width: 100px;">
+        <img src="/assets/img/uts.png" alt="UTS Logo" class="img-fluid rounded" style="max-width: 100px;">
       </div>
 
       <div class="col-sm-10 mt-2 mt-md-0">
         <h5 class="title font-weight-bold ml-1 ml-md-4">
-          <i class="fa-solid fa-user-graduate" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
-          <a href="https://www.creativetechhub.com" target="_blank">Creative Tech Hub</a>
+          <i class="fa-solid fa-briefcase" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          <a href="https://www.uts.edu.au/" target="_blank">Student Service Unit, UTS</a>
         </h5>
 
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
-          <a href="https://www.creativetechhub.com" target="_blank">Intern – Web Developer</a>
+          Notetaker | Part-time
         </h6>
 
         <div class="ml-1 ml-md-4 d-flex justify-content-between align-items-center"
              style="font-size: 0.95rem; margin-top: 0.5rem;">
-          <span class="badge badge-secondary">Jun 2021 - Aug 2021</span>
+          <span class="badge badge-secondary">Jan 2026 - Present</span>
           <span class="text-muted">
             <i class="fa-solid fa-location-dot" style="color: var(--global-theme-color);"></i>
-            Chattogram, Bangladesh
+            Sydney, New South Wales, Australia
           </span>
         </div>
 
         <div class="ml-1 ml-md-4 mt-3">
-          <strong>Key Contributions:</strong>
+          <strong>Key Responsibilities:</strong>
           <ul class="items mt-2" 
               style="display: grid; grid-template-columns: repeat(1, 1fr); row-gap: 0.5rem; padding-left: 1.2rem;">
-            <li>Built responsive webpages using HTML, CSS, and JavaScript.</li>
-            <li>Assisted in developing backend APIs with Flask.</li>
-            <li>Learned version control and teamwork using Git and GitHub.</li>
+            <li>Produced accurate lecture notes in MS Word, demonstrating attention to detail, confidentiality and professional written communication.</li>
           </ul>
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
+
+
+<!-- Example 3: GYG Food Chain -->
+  <div class="card mt-3 p-3">
+    <div class="row">
+      <div class="col-sm-2 text-center">
+        <img src="/assets/img/GYG.png" alt="GYG Logo" class="img-fluid rounded" style="max-width: 100px;">
+      </div>
+
+      <div class="col-sm-10 mt-2 mt-md-0">
+        <h5 class="title font-weight-bold ml-1 ml-md-4">
+          <i class="fa-solid fa-briefcase" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          <a href="https://www.guzmanygomez.com.au/" target="_blank">GYG Food Chain</a>
+        </h5>
+
+        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">
+          Crew Member | Part-time
+        </h6>
+
+        <div class="ml-1 ml-md-4 d-flex justify-content-between align-items-center"
+             style="font-size: 0.95rem; margin-top: 0.5rem;">
+          <span class="badge badge-secondary">August 2025 - Present</span>
+          <span class="text-muted">
+            <i class="fa-solid fa-location-dot" style="color: var(--global-theme-color);"></i>
+            Circular Quay, Sydney, Australia
+          </span>
+        </div>
+
+        <div class="ml-1 ml-md-4 mt-3">
+          <strong>Key Responsibilities:</strong>
+          <ul class="items mt-2" 
+              style="display: grid; grid-template-columns: repeat(1, 1fr); row-gap: 0.5rem; padding-left: 1.2rem;">
+            <li>Provided efficient customer service in high-paced environments, building communication and composure under pressure.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </div>

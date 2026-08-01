@@ -2,116 +2,105 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: "<span style='font-size:1.1rem; font-weight:300;'>A showcase of my academic and personal projects.</span>"
+description: "<span style='font-size:1.1rem; font-weight:300;'>A showcase of my academic projects.</span>"
 nav: true
 nav_order: 4
 ---
 
-<div class="projects-grid">
-
-  <!-- Project 1 -->
-  <a href="https://github.com/bishawchak/Student_Attendance_System" target="_blank" class="project-card">
-    <img src="/assets/img/homepage.png" alt="Homepage">
-    <h3>Student Attendance System</h3>
-    <p>A web-based system developed in ASP.NET and C# to automate attendance tracking efficiently.</p>
-  </a>
-
-  <!-- Project 2 -->
-  <a href="https://github.com/bishawchak/Ping_Pong" target="_blank" class="project-card">
-    <img src="/assets/img/demo_game.png" alt="Ping Pong Game">
-    <h3>Ping Pong Game</h3>
-    <p>A fun and interactive Ping Pong game created in C++ using the Raylib library to simulate real-time ball and paddle movement.</p>
-  </a>
-
-  <!-- Project 3 -->
-  <a href="https://github.com/bishawchak/Sorting_Algorithm" target="_blank" class="project-card">
-    <img src="/assets/img/demo.png" alt="Sorting Algorithm Visualization">
-    <h3>Sorting Algorithm Visualization</h3>
-    <p>A C++ project that visualizes popular sorting algorithms like Bubble, Insertion, Merge, Quicksort etc  using Raylib.</p>
-  </a>
-
-  <!-- Project 4 -->
-  <a href="https://github.com/bishawchak/Self_Balancing_Robot" target="_blank" class="project-card">
-    <img src="/assets/img/bot.png" alt="Self Balancing Robot">
-    <h3>Self Balancing Robot</h3>
-    <p>An Arduino project that uses a gyro sensor and PID control to maintain balance on two wheels.</p>
-  </a>
-
-  <!-- Project 5 -->
-  <a href="https://github.com/bishawchak/DC_Power_Supply/tree/main" target="_blank" class="project-card">
-    <img src="/assets/img/circuit_diagram.png" alt="DC Power Supply">
-    <h3>DC Power Supply</h3>
-    <p>An electronics project that delivers 0–30V DC output with over-voltage, under-voltage, and short-circuit protection.</p>
-  </a>
-
-</div>
-
 <style>
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-
-/* Project Card */
-.project-card {
-  display: block;
-  background-color: var(--card-bg); /* match theme */
-  border: 1px solid rgb(90, 90, 90);
-  padding: 1rem;
-  text-align: center;
-  transition: all 0.3s ease;
+.academic-projects a {
+  text-decoration: none;
   color: inherit;
-  text-decoration: none;
-  border-radius: 0; /* square corners like contact page */
+  transition: all 0.2s ease-in-out;
+  border-bottom: 1px solid transparent;
 }
 
-[data-theme="dark"] .project-card {
-  border-color: rgb(180, 180, 180);
-}
-
-/* Image */
-.project-card img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  margin-bottom: 1rem;
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-/* Title */
-.project-card h3 {
+.academic-projects a:hover {
   color: var(--global-theme-color);
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-}
-
-/* Description */
-.project-card p {
-  font-size: 0.9rem;
-  color: var(--text-color);
-  margin-bottom: 0.8rem;
-}
-
-/* Hover Effect – same as contact cards */
-.project-card:hover {
-  transform: scale(1.03);
-  border-color: var(--global-theme-color);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
-  text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.03);
-}
-
-/* Slight hover change for light mode */
-[data-theme="light"] .project-card:hover {
-  background-color: rgba(0, 0, 0, 0.03);
-}
-
-/* Optional: zoom image a bit when hovering */
-.project-card:hover img {
-  transform: scale(1.05);
-  filter: brightness(0.9);
+  border-bottom: 1px solid var(--global-theme-color);
 }
 </style>
+
+<div class="academic-projects">
+
+  <!-- Project 1 -->
+  <div class="card mt-3 p-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h5 class="title font-weight-bold">
+          <i class="fa-solid fa-diagram-project" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          Quantitative Risk Assessment and Decision-Making
+        </h5>
+        <h6 style="font-size: 0.95rem; font-style: italic;">Course: Risk Management in Engineering</h6>
+        <div class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; margin-top: 0.5rem;">
+          <span class="badge badge-secondary">Nov 2025</span>
+        </div>
+        <ul class="items mt-3" style="padding-left: 1.2rem;">
+          <li>Conducted quantitative risk assessment of a failed reinforced concrete structure (CTV building, New Zealand) using techniques like FTA, ETA, and BTA.</li>
+          <li>Developed a Bayesian Network model in GeNIe to quantify failure likelihood through the structural system.</li>
+          <li>Identified the top contributing factors through sensitivity analysis to develop targeted mitigation strategies.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Project 2 -->
+  <div class="card mt-3 p-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h5 class="title font-weight-bold">
+          <i class="fa-solid fa-diagram-project" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          Sustainable Energy System Design
+        </h5>
+        <h6 style="font-size: 0.95rem; font-style: italic;">Course: Designing Sustainable Engineering Projects</h6>
+        <div class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; margin-top: 0.5rem;">
+          <span class="badge badge-secondary">May 2025</span>
+        </div>
+        <ul class="items mt-3" style="padding-left: 1.2rem;">
+          <li>Collaborated in a team to design a solar PV, battery storage, and grid-connected energy system for a rural property to meet 9200 kWh annual demand.</li>
+          <li>Led CBA and LCA across competing technologies (Li-ion, Na-ion, biomass, EV) and selected an agrivoltaics solar layout projecting $5336 net savings over 10 years and 12% annual CO<sub>2</sub> reduction.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Project 3 -->
+  <div class="card mt-3 p-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h5 class="title font-weight-bold">
+          <i class="fa-solid fa-diagram-project" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          Sewerage System Design
+        </h5>
+        <h6 style="font-size: 0.95rem; font-style: italic;">Course: Sessional on Environmental Engineering-III</h6>
+        <div class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; margin-top: 0.5rem;">
+          <span class="badge badge-secondary">Aug 2024</span>
+        </div>
+        <ul class="items mt-3" style="padding-left: 1.2rem;">
+          <li>Designed a sewerage reticulation system for a real campus site (KUET TTC), using SewerGEMS, applying hydraulic modelling to size pipes with optimised flow conditions through team collaboration.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Project 4 -->
+  <div class="card mt-3 p-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h5 class="title font-weight-bold">
+          <i class="fa-solid fa-diagram-project" style="color: var(--global-theme-color); margin-right: 0.3rem;"></i>
+          Commercial Building Structural Design
+        </h5>
+        <h6 style="font-size: 0.95rem; font-style: italic;">Course: Sessional on Structural Analysis & Design-III</h6>
+        <div class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; margin-top: 0.5rem;">
+          <span class="badge badge-secondary">Jun 2023</span>
+        </div>
+        <ul class="items mt-3" style="padding-left: 1.2rem;">
+          <li>Designed a 6-storey mixed-use building using both AutoCAD and ETABS to apply gravity, lateral and seismic load analysis across varying retail and residential floor uses.</li>
+          <li>Evaluated structural lateral performance to develop practical judgement in column, beam and floor system design.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
