@@ -4,7 +4,7 @@ permalink: /experience/
 title: Work Experience
 # description: "<span style='font-size:1.2rem; font-weight:200;'>My professional work experience - </span>"
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 

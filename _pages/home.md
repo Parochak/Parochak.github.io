@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at the <span class="theme-text">University of Technology Sydney (UTS)</span>. I did my undergrad in <span class="theme-text">Civil Engineering</span> at <span class="theme-text">Khulna University of Engineering & Technology (KUET)</span>, graduating with distinction and receiving the University Technical Scholarship and Dean's Award along the way.
+Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at <span class="theme-text">University of Technology Sydney (UTS)</span> who is deeply passionate about risk assessment and sustainable design. Making the built environment safer and more resilient for the communities that depend on it is the reason I chose this career path, and I would love to make this a lasting part of my work.
 
-Since starting my master's, I've achieved High Distinction in my first year, including in Design for Durability, which focuses on the long-term performance of concrete structures. My interests lie mainly in risk assessment and sustainable design, and my coursework has taken me across structural analysis, sustainable energy systems, and environmental engineering — giving me a broad, practical view of civil engineering problems.
+During my time at UTS, I've had the privilege of leading a team of civil engineers on a live project with Tweed Shire Council, forecasting the risk of sea level rise to critical infrastructure, and I've learnt the importance of accountability and empathy in engineering leadership. As an international student working alongside people from a wide range of cultural backgrounds, I've also gained a genuine appreciation for how different perspectives strengthen a team and shape better engineering solutions. I completed my undergraduate degree in <span class="theme-text">Civil Engineering at KUET</span>, graduating with distinction and receiving the University Technical Scholarship and Dean's Award, and my coursework since has spanned structural analysis, sustainable energy systems, and environmental engineering.
 
-I enjoy working on real projects and helping deliver useful results for the people I work with.
+I remain curious and hard-working, and strive to make the most of every opportunity. I believe in lifelong learning, and hope that every project brings me closer to building infrastructure that communities can rely on for generations.
 
 
 ## **Technical Skills**
@@ -49,13 +49,6 @@ Beyond my technical work, I've taken on several leadership and community-focused
 - **Postgraduate Collective, UTS** — Assisted in organising a postgraduate social event, handling logistics and purchases to ensure smooth operations.
 - **Concrete Society of KUET, Bangladesh** — Mentored new members, facilitated training sessions, organised student events, and managed finances, developing hands-on leadership and teamwork abilities.
 
-
-## **Transferable Skills**
-
-- **Teamwork:** Achieved a high distinction team project designing a full agrivoltaics energy system with quantified cost and emissions outcomes, recognised by peers and academics for collaborative contribution.
-- **Problem-solving:** Delivered creative, data-driven solutions across structural, energy, and risk projects using AutoCAD, ETABS, and GeNIe.
-- **Adaptability & Communication:** Navigated cultural transition as an international student while supporting incoming students as a UTS Peer Networker, developing strong communication skills.
-- **Languages:** Fluent in Bengali and Hindi.
 
 ---
 
