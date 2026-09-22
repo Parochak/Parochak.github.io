@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /cv/
+permalink: /coverletter/
 title: Cover Letter
 nav: true
 nav_order: 5
