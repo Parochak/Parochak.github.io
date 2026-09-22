@@ -61,11 +61,19 @@ on:
       - "!README.md"
   workflow_dispatch:
 
+# Needed for the actions/deploy-pages flow (GitHub Actions Pages source)
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Avoid two deployments racing each other
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -98,8 +106,20 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
+      - name: Upload artifact 📦
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          folder: _site
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages 🚀
+        id: deployment
+        uses: actions/deploy-pages@v4
