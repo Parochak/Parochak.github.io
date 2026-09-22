@@ -16,26 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/internship/";
           },
-        },{id: "nav-work-experience",
-          title: "Work Experience",
+        },{id: "nav-cover-letter",
+          title: "Cover Letter",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/experience/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A showcase of my academic projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-education",
-          title: "Education",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/education/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-cv",
           title: "CV",
