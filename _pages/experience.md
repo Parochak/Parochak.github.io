@@ -3,7 +3,7 @@ layout: page
 permalink: /experience/
 title: Work Experience
 # description: "<span style='font-size:1.2rem; font-weight:200;'>My professional work experience - </span>"
-nav: true
+nav: false
 nav_order: 3
 ---
 

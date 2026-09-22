@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: "<span style='font-size:1.1rem; font-weight:300;'>A showcase of my academic projects.</span>"
-nav: true
+nav: false
 nav_order: 4
 ---
 

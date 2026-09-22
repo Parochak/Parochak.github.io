@@ -27,13 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at <span class="theme-text">University of Technology Sydney (UTS)</span> who is deeply passionate about risk assessment and sustainable design. Making the built environment safer and more resilient for the communities that depend on it is the reason I chose this career path, and I would love to make this a lasting part of my work.
+<!-- Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at <span class="theme-text">University of Technology Sydney (UTS)</span> who is deeply passionate about risk assessment and sustainable design. Making the built environment safer and more resilient for the communities that depend on it is the reason I chose this career path, and I would love to make this a lasting part of my work.
 
 During my time at UTS, I've had the privilege of leading a team of civil engineers on a live project with Tweed Shire Council, forecasting the risk of sea level rise to critical infrastructure, and I've learnt the importance of accountability and empathy in engineering leadership. As an international student working alongside people from a wide range of cultural backgrounds, I've also gained a genuine appreciation for how different perspectives strengthen a team and shape better engineering solutions. I completed my undergraduate degree in <span class="theme-text">Civil Engineering at KUET</span>, graduating with distinction and receiving the University Technical Scholarship and Dean's Award, and my coursework since has spanned structural analysis, sustainable energy systems, and environmental engineering.
 
-I remain curious and hard-working, and strive to make the most of every opportunity. I believe in lifelong learning, and hope that every project brings me closer to building infrastructure that communities can rely on for generations.
+I remain curious and hard-working, and strive to make the most of every opportunity. I believe in lifelong learning, and hope that every project brings me closer to building infrastructure that communities can rely on for generations. -->
 
+Hi, I'm <span class="theme-text">Paromita Chakma</span>, a final year <span class="theme-text">Master of Professional Engineering (Civil Engineering)</span> student at <span class="theme-text">University of Technology Sydney (UTS). My interest in engineering actually started with my dad — he worked in Water Development for the government in Bangladesh, and I grew up seeing the concrete revetments he helped build along riverbanks to keep people safe from floods. That's really where this all began for me, and it's why I've always been drawn to work that protects people from natural disasters, especially anything to do with water and climate risk.
 
+That interest became real during my internship with Tweed Shire Council through Optik Consultancy, where I led a team of civil engineering interns on a risk assessment for water and wastewater infrastructure. We looked at how sea level rise would affect the council's assets over the next few decades and turned the data into an interactive map they could use. It taught me a lot about what it means to lead with accountability, and working with teammates from such different backgrounds as an international student shaped how I show up as a leader. Looking ahead, I want to keep working on projects that help communities prepare for climate and disaster risk, the same way my dad's work protected the people around him.
+
+<!-- 
 ## **Technical Skills**
 
 **Design Software:** AutoCAD, ETABS, SewerGEMS, GeNIe, QGIS, CIRCLY 7.0
@@ -47,7 +51,7 @@ Beyond my technical work, I've taken on several leadership and community-focused
 
 - **Peer Network, UTS** — Coordinated orientation activities and engaged with diverse student groups, and led hospitality initiatives for international students, developing strong interpersonal and cross-cultural communication skills.
 - **Postgraduate Collective, UTS** — Assisted in organising a postgraduate social event, handling logistics and purchases to ensure smooth operations.
-- **Concrete Society of KUET, Bangladesh** — Mentored new members, facilitated training sessions, organised student events, and managed finances, developing hands-on leadership and teamwork abilities.
+- **Concrete Society of KUET, Bangladesh** — Mentored new members, facilitated training sessions, organised student events, and managed finances, developing hands-on leadership and teamwork abilities. -->
 
 
 ---

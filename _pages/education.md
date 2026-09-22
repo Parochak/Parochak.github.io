@@ -3,7 +3,7 @@ layout: page
 permalink: /education/
 title: Education
 # description: "<span style='font-size:1.2rem; font-weight:200;'>My academic background and qualifications - </span>"
-nav: true
+nav: false
 nav_order: 5
 ---
 
